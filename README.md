@@ -60,12 +60,6 @@
 - [N-body-Parallel-Processing](https://github.com/Larkoss/N-body-Parallel-Processing) - Parallel-processing work in Python around N-body computation.
 - [Let-It-Be-SonicPi](https://github.com/Larkoss/Let-It-Be-SonicPi) - A fun Ruby/Sonic Pi project that recreates a Beatles classic through code.
 
-## GitHub Snapshot
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Larkoss&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larkoss&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 
 ## Contact
 
